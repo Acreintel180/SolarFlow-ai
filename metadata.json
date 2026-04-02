@@ -1,0 +1,7 @@
+{
+  "name": "SolarFlow AI",
+  "description": "Precision solar compliance assistant for USA contractors, providing NEC code lookups, 120% rule calculations, and permit checklists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
